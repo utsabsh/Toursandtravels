@@ -3,7 +3,7 @@ import { FaTiktok } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <section id="contact" className="bg- py-16 text-white">
+    <section id="contact" className=" py-16 bg-slate-300  text-white">
       <div className="flex flex-col gap-3 p-3 font-mono font-bold  tracking-widest text-stone-800 md:flex-row md:justify-around ">
         <div
           className="flex flex-col items-center justify-center gap-4 md:flex
@@ -17,16 +17,16 @@ const Footer = () => {
           <div>
             <p>
               <span className=" uppercase">email:</span>📧
-              ToursandTravels@gmail.com
+              philip@feathertour.com/holidays@feathertour.com
             </p>
             <p>
-              <span className=" uppercase">phone: ☎️ +977-984123456</span>{" "}
+              <span className=" uppercase">
+                phone: ☎️ 00977-1-4441111, 4425111, 4445000
+              </span>{" "}
             </p>
             <p>
               <span className=" uppercase">address:</span>
-              <span className="capitalize">
-                📍 putalisadak, Kathmandu, Nepal
-              </span>
+              <span className="capitalize">📍Nagpokari, Kathmandu, Nepal</span>
             </p>
           </div>
         </div>
